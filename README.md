@@ -1,4 +1,4 @@
-## Portfolio
+## Career Objective
 
 I am a DevOps engineer with an experience of over 2 years. I have hands on experience working with DevOps Tools and AWS Cloud technologies. I have extensively worked on react and typescript for 3 years.
 

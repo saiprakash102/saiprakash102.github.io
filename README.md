@@ -11,7 +11,7 @@ I am a DevOps engineer with an experience of over 2 years. I have hands on exper
   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png?20190703111750" alt="Maven" width="40" height="40">
   <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" alt="Jenkins" width="auto" height="40">
-  <img src="https://www.wallpaperflare.com/static/49/986/374/docker-containers-minimalism-typography-wallpaper-preview.jpg" alt="Docker" width="40" height="40">
+  <img src="https://logo-logos.com/wp-content/uploads/2016/10/Docker_logo.png" alt="Docker" width="auto" height="40">
   <img src=" " alt="Git" width="40" height="40">
   <img src=" " alt="Git" width="40" height="40">
   <img src=" " alt="Git" width="40" height="40">

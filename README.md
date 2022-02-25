@@ -7,27 +7,20 @@ I am a DevOps engineer with an experience of over 2 years. I have hands on exper
 ## Skills
 
 <p align='left'>
-  <img src="https://mms.businesswire.com/media/20131031005990/en/389965/4/nanotech_entertainment_nuvola_linux.jpg?download=1" alt="Linux" width="40" height="40">
-  <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png?20190703111750" alt="Maven" width="40" height="40">
-  <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" alt="Jenkins" width="auto" height="40">
-  <img src="https://logo-logos.com/wp-content/uploads/2016/10/Docker_logo.png" alt="Docker" width="auto" height="40">
+  <img src="https://mms.businesswire.com/media/20131031005990/en/389965/4/nanotech_entertainment_nuvola_linux.jpg?download=1" alt="Linux" width="auto" height="80">
+  <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git" width="auto" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png?20190703111750" alt="Maven" width="auto" height="40">
+  <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" alt="Jenkins" width="auto" height="80">
+  <img src="https://logo-logos.com/wp-content/uploads/2016/10/Docker_logo.png" alt="Docker" width="auto" height="80">
+  <img src="https://logowik.com/content/uploads/images/t_ansible3554.jpg" alt="Ansible" width="auto" height="80">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.png" alt="Prometheus" width="auto" height="80">
+  <img src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="Kubernetes" width="auto" height="80">
+  <img src="https://www.citypng.com/public/uploads/preview/-11596298476uv7jjemoja.png" alt="AWS" width="auto" height="80">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" alt="Terraform" width="auto" height="80">
+  <img src="https://i.pinimg.com/originals/3f/db/8d/3fdb8ddd92ca2f91128361db01136af3.jpg" alt="Nexus" width="auto" height="80">
+  <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" alt="Python" width="auto" height="80"/>
+  <img src="https://logo-all.ru/uploads/posts/2018-09/0_jira_logo.jpg" alt="JIRA" width="auto" height="80"/>
   <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  <img src=" " alt="Git" width="40" height="40">
-  
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
 
 ---

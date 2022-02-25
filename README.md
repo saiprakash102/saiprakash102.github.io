@@ -11,6 +11,17 @@ I am a DevOps engineer with an experience of over 2 years. I have hands on exper
   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png?20190703111750" alt="Maven" width="40" height="40">
   <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" alt="Jenkins" width="auto" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  <img src=" " alt="Git" width="40" height="40">
+  
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
@@ -23,12 +34,12 @@ I am a DevOps engineer with an experience of over 2 years. I have hands on exper
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
+### **SENIOR DEVOPS ENGINEER**
 ### MIRO
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-### **FRONTEND DEVELOPER**
+### **DEVOPS ENGINEER**
 ### Booking.com
 
 Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
@@ -42,9 +53,9 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **KOMMURI PRATAP REDDY INSTITUTE OF TECHNOLOGY JNT UNIVERSITY OF HYDERABAD**
+### BTech Civil Engineering (2015 - 2019)
+GPA 63.6%
 
 ---
 

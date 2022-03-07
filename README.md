@@ -1,6 +1,6 @@
 ## Career Objective
 
-I am a DevOps engineer with an experience of over 2 years. I have hands on experience working with DevOps Tools and AWS Cloud technologies. I have extensively worked on react and typescript for 3 years.
+I am a DevOps engineer with an experience of over 2 years. I have hands on experience working with DevOps Tools and AWS Cloud technologies. I have extensively worked on linux and jenkins for 2 years.
 
 ---
 
@@ -19,8 +19,6 @@ I am a DevOps engineer with an experience of over 2 years. I have hands on exper
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" alt="Terraform" width="auto" height="50">
   <img src="https://i.pinimg.com/originals/3f/db/8d/3fdb8ddd92ca2f91128361db01136af3.jpg" alt="Nexus" width="auto" height="50">
   <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" alt="Python" width="auto" height="50"/>
-  <img src="https://logo-all.ru/uploads/posts/2018-09/0_jira_logo.jpg" alt="JIRA" width="auto" height="30"/>
-  <img src=" " alt="Git" width="40" height="40">
 </p>
 
 ---
@@ -55,4 +53,4 @@ GPA 63.6%
 ### INTERESTS
 Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i listening music, playing games and coocking food in my free time.
